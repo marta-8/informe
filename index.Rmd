@@ -2,7 +2,7 @@
 title: "La població de Barcelona el 2024"
 output:
   html_document:
-    css: "../omd.css"
+    css: omd.css
     includes:
       in_header: hero-image.html
 ---

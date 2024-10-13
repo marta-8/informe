@@ -16,4 +16,4 @@ navbar:
 output:
   html_document:
     theme: cosmo
-    css: "C:/Users/Marta/Desktop/Ajuntament/my_website/omd.css"
+    css: omd.css
