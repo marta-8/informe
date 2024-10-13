@@ -1,0 +1,19 @@
+name: informe-web
+output_dir: docs
+navbar:
+  title: '<div><img src="images/logo2.png" style="align=left;height:50px; opacity:0.9;width:auto; padding:0;"/></div>'
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+  right:
+    - text: "Oficina Municipal de Dades"
+      href: "https://portaldades.ajuntament.barcelona.cat/ca/"
+  logo:
+    image: images/logo.jpg
+    href: https://www.barcelona.cat/ca
+output:
+  html_document:
+    theme: cosmo
+    css: "C:/Users/Marta/Desktop/Ajuntament/my_website/omd.css"

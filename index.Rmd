@@ -1,0 +1,24 @@
+---
+title: "La població de Barcelona el 2024"
+output:
+  html_document:
+    css: "C:/Users/Marta/Desktop/Ajuntament/my_website/omd.css"
+    includes:
+      in_header: hero-image.html
+---
+
+# Introducció {#introduccio}
+
+El Departament d’Estadística i Difusió de Dades de l’Oficina Municipal de Dades de l’Ajuntament de Barcelona, presenta les xifres de la població resident a la ciutat de Barcelona obtingudes de la lectura del Padró Municipal d’Habitants: en aquest document s‘ofereix la lectura a 1 de gener del 2024[^1].
+
+[^1]: La lectura detallada de 2024 i d’anys anteriors la trobareu al web Barcelona Dades <https://portaldades.ajuntament.barcelona.cat/ca/> publicat per l’Oficina Municipal de Dades (OMD) de l’Ajuntament de Barcelona.
+    \newline Podeu accedir a les taules estadístiques <https://portaldades.ajuntament.barcelona.cat/ca/search/padr%C3%B3?theme=Poblaci%C3%B3&source=STATISTICS>, a les microdades <https://portaldades.ajuntament.barcelona.cat/ca/search/padr%C3%B3?theme=Poblaci%C3%B3&source=MICRODATA>, al document La població de Barcelona el 2024 <https://portaldades.ajuntament.barcelona.cat/ca/documents/oai:bcnroc.ajuntament.barcelona.cat:11703/135562>, el document sintètic Flaix de la població de Barcelona <https://portaldades.ajuntament.barcelona.cat/ca/datastories/d43ca6068d>, i l’aplicació interactiva <https://portaldades.ajuntament.barcelona.cat/ca/datastories/kqxz8kca7q>.
+    Tots els gràfics i mapes continguts en aquest informe s’han elaborat amb informació publicada als mateixos enllaços.
+
+L’informe s’inicia amb una visió sintètica dels principals resultats. A continuació, es presenten els indicadors essencials per conèixer la població a partir de les característiques de les persones inscrites al Padró, com el sexe, l’edat, el lloc de naixement, la nacionalitat, el nivell acadèmic, els anys d’empadronament o els noms més freqüents.
+
+En el següent bloc s’ofereix informació sobre la població de nacionalitat estrangera i la població nascuda a l’estranger actualment empadronada a Barcelona. A continuació, s’exploren les característiques dels domicilis d’empadronament dels residents. 
+
+Al darrer apartat es repassen les dades bàsiques dels moviments demogràfics esdevinguts durant l’any 2023: vegetatiu, migratori i administratiu.  
+
+A nivell territorial, en aquest informe s’han tractat preferentment les dades a nivell de ciutat i districtes, amb representacions cartogràfiques per Àrees Estadístiques Bàsiques (AEB). La informació està disponible també per barris i seccions censals als enllaços referenciats a la nota al peu.
